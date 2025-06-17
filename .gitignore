@@ -1,0 +1,16 @@
+# Ignoruj složku s nainstalovanými balíčky
+node_modules/
+
+# Logovací soubory
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS specifické soubory
+.DS_Store
+Thumbs.db
+
+# Soubory prostředí
+.env
+.env.local
+.env.*.local
